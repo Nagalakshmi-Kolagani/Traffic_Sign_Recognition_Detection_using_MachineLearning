@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>8.jpg</filename>
+	<path>C:\Users\Nagalakshmi\Desktop\Nagalakshmi\CERTIFICATES\Machine Learning Workshop\images\test\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>142</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic signal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>11</ymin>
+			<xmax>142</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic signal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>5</ymin>
+			<xmax>345</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
